@@ -1,0 +1,5 @@
+2021-10-26 21:12:19,051 — __main__ — INFO — hitting /test/ endpoint
+2021-10-26 21:13:04,700 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 21:13:28,388 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 21:13:35,003 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 21:13:35,008 — __main__ — ERROR — something went wrong 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.

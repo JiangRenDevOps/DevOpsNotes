@@ -1,0 +1,10 @@
+2021-10-25 22:36:49,676 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-25 22:36:49,676 — __main__ — ERROR — division by zero
+Traceback (most recent call last):
+  File "flask_app.py", line 22, in test1
+    1/0
+ZeroDivisionError: division by zero
+2021-10-25 22:36:49,681 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-25 22:44:00,039 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-25 22:44:00,039 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-25 22:44:00,045 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'

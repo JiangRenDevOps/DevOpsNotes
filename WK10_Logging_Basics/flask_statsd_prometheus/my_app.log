@@ -1,0 +1,31 @@
+2021-10-26 22:12:54,082 — __main__ — INFO — hitting /test/ endpoint
+2021-10-26 22:12:55,259 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:12:55,259 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:12:55,264 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-26 22:16:12,931 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:16:12,932 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:16:12,936 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-26 22:16:50,255 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:16:50,256 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:17:18,018 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:17:18,018 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:17:34,163 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:17:34,163 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:17:34,167 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-26 22:19:29,063 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:19:29,067 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-26 22:19:31,318 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:19:31,318 — __main__ — ERROR — b'{"code": 500, "description": "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.", "name": "Internal Server Error"}'
+2021-10-26 22:25:22,748 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:25:22,749 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:26:01,264 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:26:01,264 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:27:41,460 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:27:41,460 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:29:27,676 — __main__ — ERROR — 404 page not found 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2021-10-26 22:30:06,055 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:30:06,055 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:30:06,059 — __main__ — ERROR — something went wrong 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2021-10-26 22:30:54,441 — __main__ — INFO — hitting /test1/ endpoint
+2021-10-26 22:30:54,441 — __main__ — ERROR — division by zero'Traceback (most recent call last):\n  File "src/flask_app.py", line 22, in test1\n    1/0\nZeroDivisionError: division by zero'
+2021-10-26 22:30:54,445 — __main__ — ERROR — something went wrong 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
