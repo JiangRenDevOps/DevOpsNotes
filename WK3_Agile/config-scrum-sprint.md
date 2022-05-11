@@ -14,7 +14,7 @@ Choose scrum project template from
 ![Alt text](images/projecttemplates.png?raw=true)
 
 Choose team managed for an easier experience. You can take a look at the differece between the two, once you gain more experience, you can explore company managed projects more.
-![Alt text](images/team:managed.png?raw=true)
+![Alt text](images/team_managed.png?raw=true)
 
 Complete creating project by entering a project name.
 ![Alt text](images/createname.png?raw=true)
