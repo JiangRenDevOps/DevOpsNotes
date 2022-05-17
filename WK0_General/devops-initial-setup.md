@@ -1,5 +1,5 @@
 # DevOps Workstation Initial Setup
-111
+111222
 
 This documentation will go through the setup for some common tools that you will use throughout this course.
 
