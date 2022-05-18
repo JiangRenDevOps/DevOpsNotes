@@ -8,3 +8,7 @@ To cleanup, please run
 docker kill jenkins
 docker rm jenkins
 ```
+
+# Get an Azure free account
+
+Create your Azure free account: https://azure.microsoft.com/en-au/free/

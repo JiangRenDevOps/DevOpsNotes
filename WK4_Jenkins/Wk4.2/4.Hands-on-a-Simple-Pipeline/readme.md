@@ -31,7 +31,7 @@ Below are some examples of languages and their extensions:
 
 We use this project to build a pipeline for one of it's API applications.
 
-* Repo: https://github.com/Azure-Samples/openhack-devops-team
+* Repo: https://github.com/RayMaAU/openhack-devops-team
 
 Under the ``apis``, there are 4 applications. In this task, you are required to set up a build pipeline for one of them as you like:
 
