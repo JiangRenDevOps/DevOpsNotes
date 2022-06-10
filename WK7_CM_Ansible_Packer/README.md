@@ -96,6 +96,11 @@ all modules: https://docs.ansible.com/ansible/latest/collections/index_module.ht
 
 ## Task #5: Simple playbook
 
+Let's write a playbook to do the following
+
+* install redis (apt-get update && apt-get install redis)
+* start redis server (systemtcl start redis.service)
+
 ```bash
 
 ansible-playbook -i ../inventory.aws_ec2.yaml site.yaml

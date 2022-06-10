@@ -2,12 +2,12 @@
 [web]
 
 # input your web hosts here
-ec2-54-252-197-28.ap-southeast-2.compute.amazonaws.com
-ec2-3-104-64-20.ap-southeast-2.compute.amazonaws.com
+ec2-54-79-144-59.ap-southeast-2.compute.amazonaws.com
+ec2-3-25-92-109.ap-southeast-2.compute.amazonaws.com
 
 
 [redis]
 
 
 # input your redis hosts here
-ec2-13-236-182-208.ap-southeast-2.compute.amazonaws.com
+ec2-13-211-81-64.ap-southeast-2.compute.amazonaws.com

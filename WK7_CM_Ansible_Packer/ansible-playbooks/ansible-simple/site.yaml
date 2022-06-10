@@ -9,20 +9,22 @@
         name: redis
         state: present # declerative
         update_cache: yes
-    - name: Remove redis package
-      apt:
-        name: redis
-        state: absent # confict: invalid in pure declerative system
-        update_cache: yes
+
+    ## Try uncomment the following and see what will happen.
+    # - name: Remove redis package
+    #   apt:
+    #     name: redis
+    #     state: absent # confict: invalid in pure declerative system
+    #     update_cache: yes
     # what if we delete the start config after start, is it started or not
     - name: Start service redis, if not started
       service:
         name: redis
         state: started
-
+    ## Try uncomment the following and see what will happen.
     # Imperative: although define the final status, it is actually an instruction
-    - name: Stop service redis
-      service:
-        name: redis
-        state: stopped
+    # - name: Stop service redis
+    #   service:
+    #     name: redis
+    #     state: stopped
 

@@ -6,5 +6,7 @@ regions:
 filters:
   tag:Project: jrcms
 keyed_groups:
-  - prefix: tag
-    key: tags['Name']
+  - prefix: tag # prefix is 'tag_'
+    key: tags['Name'] # the Name tag can be 'web' or 'redis'
+
+    # so the groups are tag_web and tag_redis
